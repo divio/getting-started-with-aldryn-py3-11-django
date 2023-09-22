@@ -58,7 +58,7 @@ docker-compose builds
 docker-compose up
 ```
 
-This command will start the `web` and `db` services. You can reach the web application at [http://localhost:8000]() and Admin panel at [http://localhost:8000/admin]
+This command will start the `web` and `db` services. You can reach the web application at [http://localhost:8000]() and Admin panel at [http://localhost:8000/admin]()
 
 
 ## How to develop
