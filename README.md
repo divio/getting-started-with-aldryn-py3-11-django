@@ -49,7 +49,7 @@ git clone https://github.com/divio/getting-started-with-aldryn-py3-11-django.git
 Let's build the docker image of the project.
 ```
 cd getting-started-with-aldryn-py3-11-django
-docker-compose builds
+docker-compose build
 ```
 
 ### Run the project
@@ -68,5 +68,4 @@ Follow the official [Django development guides](https://docs.djangoproject.com/e
 
 ## Contribute to the project
 
-See the [contribution
-guide](https://github.com/flavours/getting-started-with-spring-boot/blob/master/CONTRIBUTING.md).
+See the [contribution guide](./CONTRIBUTING.md).
